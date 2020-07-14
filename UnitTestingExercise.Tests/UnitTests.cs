@@ -13,7 +13,7 @@ namespace UnitTestingExercise.Tests
 
             //Arrange
             // create a Calculator object
-            var calculatorInstance = new Calculator();
+            
 
             //Act
                 // call the Add method that is located in the Calculator class
