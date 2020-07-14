@@ -33,7 +33,7 @@ namespace UnitTestingExercise
         // Create a Multiply method that passes 2 integers
 
 
-        // Step 7: Navigate to the UnitTests.cs file and complete the DivideTest unit test method 
+        // Step 7: Navigate to the UnitTests.cs file and complete the MultiplyTest unit test method 
 
 
         // Step 8: 
