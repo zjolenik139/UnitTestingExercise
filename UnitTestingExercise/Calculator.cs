@@ -1,7 +1,7 @@
 ﻿using System;
 namespace UnitTestingExercise
 {
-    public class UnitTestMethods
+    public class Calculator
     {
         // Step 1: Add a reference to your UnitTestingExercise project:
 
